@@ -5,7 +5,7 @@
 git hub project
 
 ### Description
-Describe what your project is about and what it does
+part 2 of github project. improving documentation and making changes to file 
 
 ### Files used
 Include the files used
