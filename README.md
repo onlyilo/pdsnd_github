@@ -1,5 +1,4 @@
 ### Date created
-<<<<<<< HEAD
 1/1/31
 
 ### Project Title
